@@ -41,7 +41,8 @@ social:
   email: christian.seiler@ivao.aero # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://www.ivao.aero/Member.aspx?Id=612197 # Link to profile on IVAO
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
