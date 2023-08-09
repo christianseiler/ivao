@@ -8,7 +8,7 @@ image: wdyft-icon.png
 
 You don't know all the ICAO codes for Departure Clearances by heart? You want to say the name of the airport but are too lazy to look up the codes on Google? Then download the Aurora plugin **"Where Do You Fly To"**.
 
-<b><a href="#" download>Click to Download</a></b>
+<b><a href="https://christianseiler.github.io/WhereDoYouFlyTo/WhereDoYouFlyTo.application" download>Click to Download</a></b>
 <br>
 <br>
 
