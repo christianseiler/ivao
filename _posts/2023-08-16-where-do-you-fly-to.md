@@ -17,7 +17,8 @@ You don't know all the ICAO codes for Departure Clearances by heart? You want to
 ## Basic features
 
 - Display the name, city, and country of the destination airport of the selected traffic.
-- Search manually for ICAO code.
+- Display information about the selected aircraft type.
+- Search manually for ICAO code of airports and aircrafts.
 - Choice of viewing the window with or without a border.
 - Fix window position, when window has no border.
 - Availability of light and dark visual themes.
