@@ -35,6 +35,6 @@ You don't know all the ICAO codes for Departure Clearances by heart? You want to
 
 ## Screenshots
 
-  <p><img src="wdyft-light-border.png" align="left"></p>
-  <p><img src="wdyft-dark-border.png" align="left"></p>
-   <p><img src="wdyft-dark-borderless.png" align="left"></p>
+  <p><img src="wdyft-light-border.png" align="left" alt="Light theme preview with border"></p>
+  <p><img src="wdyft-dark-border.png" align="left" alt="Dark theme preview with border"></p>
+  <p><img src="wdyft-dark-borderless.png" align="left" alt="Dark theme preview without border"></p>
