@@ -36,6 +36,20 @@ Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#d
 
 ## License
 
+## 🔧 Local Preview with Jekyll on Windows
+
+### Requirements
+- **Ruby 3.2.x with DevKit** (other versions like 3.4 cause issues with some native gems)
+- MSYS2 must be fully installed (including toolchain setup during Ruby installation)
+- Dependencies are installed via `bundle install`
+
+### First-time setup
+```powershell
+gem install bundler
+bundle install
+bundle exec jekyll serve
+
+
 This work is published under [MIT][mit] License.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
