@@ -10,7 +10,7 @@ You sometimes miss relevant traffic entering your sector? Occasionally focused o
 It monitors newly appearing aircraft and notifies you with **visual and sound alerts** – so you’ll never miss important traffic again.
 
 
-<b><a href="https://www.christianseiler.de/software/trafficwatch/TrafficWatch.application" download>Click to Download</a></b>
+<b><a href="https://christianseiler.github.io/TrafficWatch/TrafficWatch.application" download>Click to Download</a></b>
 <br>
 <br>
 
