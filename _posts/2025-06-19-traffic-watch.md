@@ -47,6 +47,19 @@ It monitors newly appearing aircraft and notifies you with **visual and sound al
 
 ## TrafficWatch - Changelog
 
+### [1.0.1] – 2025-06-23
+
+#### New
+
+- More reliable startup with improved crash protection  
+- User-friendly on-screen status updates (e.g. “Disconnected”, “Reconnecting”)  
+
+#### Improvements
+
+- Faster traffic updates and timeouts prevent hangs when the server is unreachable  
+- Alarm sound now mutes correctly and only when you choose  
+- Inbound flight entries are now clickable for quick zoom 
+
 ### [1.0.0] – 2025-06-19
 
 #### New
