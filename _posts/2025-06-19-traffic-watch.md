@@ -47,6 +47,13 @@ It monitors newly appearing aircraft and notifies you with **visual and sound al
 
 ## TrafficWatch - Changelog
 
+### [1.0.3] – 2025-06-28
+
+#### Improvements
+
+- Improved connection reliability and clearer status reporting
+- Enhanced logging for easier troubleshooting
+
 ### [1.0.2] – 2025-06-24
 
 #### Bug Fixes
