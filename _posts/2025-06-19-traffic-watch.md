@@ -47,6 +47,24 @@ It monitors newly appearing aircraft and notifies you with **visual and sound al
 
 ## TrafficWatch - Changelog
 
+### [1.0.7] – 2025-07-02
+
+#### Improvements
+
+- Version number now appears in a shorter and cleaner format (e.g. “v1.0.7”)
+
+### [1.0.6] – 2025-07-01
+
+#### Improvements
+
+- Version display made more reliable when launching via auto-updates
+
+### [1.0.5] – 2025-06-30
+
+#### Improvements
+
+- Version number shown in the app now always matches the installed version
+
 ### [1.0.4] – 2025-06-29
 
 #### Improvements
@@ -89,7 +107,7 @@ It monitors newly appearing aircraft and notifies you with **visual and sound al
 - Visual alert indicator with adjustable transparency
 - Sound alarm when new traffic enters your sector
 - Clean, borderless and transparent interface
-- Remembers window position and size  
+- Remembers window position and size
 
 ## Credits
 Flight schedule icons created by [kerismaker – Flaticon](https://www.flaticon.com/authors/kerismaker)
