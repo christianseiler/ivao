@@ -47,6 +47,13 @@ It monitors newly appearing aircraft and notifies you with **visual and sound al
 
 ## TrafficWatch - Changelog
 
+### [1.0.4] – 2025-06-29
+
+#### Improvements
+
+- Current version number is now shown when hovering over the opacity slider  
+- Helps identify installed version without cluttering the interface
+
 ### [1.0.3] – 2025-06-28
 
 #### Improvements
