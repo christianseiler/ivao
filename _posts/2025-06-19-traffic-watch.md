@@ -47,6 +47,12 @@ It monitors newly appearing aircraft and notifies you with **visual and sound al
 
 ## TrafficWatch - Changelog
 
+### [1.0.8] – 2025-08-04
+
+#### Improvements
+
+- Local traffic (IFR or VFR) only triggers alarm once
+
 ### [1.0.7] – 2025-07-02
 
 #### Improvements
