@@ -73,6 +73,16 @@ Based on this information, the tool suggests the booked gate for flights that al
 
 ## Changelog
 
+### [1.1.0] – 2026-01-11
+
+#### New
+
+- Added improved gate assignments for Hamburg (EDDH)
+
+#### Bug Fixes
+
+- Fixed event restoration and gate selection issues on startup 
+
 ### [1.0.0] – 2025-11-27
 
 #### New
